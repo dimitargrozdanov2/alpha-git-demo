@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grozdeto\\source\\repos\\test4\\test4\\test4.csproj",
+      "projectUniqueName": "C:\\gitlab\\alpha-git-demo\\test4\\test4\\test4.csproj",
       "projectName": "test4",
-      "projectPath": "C:\\Users\\grozdeto\\source\\repos\\test4\\test4\\test4.csproj",
+      "projectPath": "C:\\gitlab\\alpha-git-demo\\test4\\test4\\test4.csproj",
       "packagesPath": "C:\\Users\\grozdeto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grozdeto\\source\\repos\\test4\\test4\\obj\\",
+      "outputPath": "C:\\gitlab\\alpha-git-demo\\test4\\test4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
